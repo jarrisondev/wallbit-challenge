@@ -1,8 +1,19 @@
 # 🖥️ Wallbit cart
+Link: [Wallbit Cart - Jarrison Cano](https://wallbit-challenge-ruby.vercel.app/)
 
 ## Wallbit Junior Frontend Challenge
 
 Prueba técnica propuesta por [Gonzalo Pozzo](https://github.com/goncy) sobre la creación de un carrito de compras utilizando React y TypeScript.
+
+## 📄 Descripción
+
+El proyecto consiste en un carrito de compras que permite agregar productos, eliminarlos y modificar la cantidad de los mismos. Además, se puede visualizar el total de la compra y el total de productos en el carrito.
+
+Se utilizó la Fake Store API para obtener los productos y mostrarlos en la aplicación.
+
+
+> [!IMPORTANT]
+> El proyecto fue hecho en gran parte por [bolt.new](https://bolt.new/)
 
 ## 📸 Captura de pantalla
 
