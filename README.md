@@ -12,11 +12,9 @@ El proyecto consiste en un carrito de compras que permite agregar productos, eli
 Se utilizó la Fake Store API para obtener los productos y mostrarlos en la aplicación.
 
 
-> [!IMPORTANT]
-> El proyecto fue hecho en gran parte por [bolt.new](https://bolt.new/)
-
 ## 📸 Captura de pantalla
-
+![image](https://github.com/user-attachments/assets/55f6b54c-906c-4fe0-a533-7b5a6651125a)
+![image](https://github.com/user-attachments/assets/b1a71aa7-5b7a-4b2d-8a06-9708bab1b198)
 
 
 ## 🚀 Tecnologías
