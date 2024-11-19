@@ -19,7 +19,7 @@ const CartTable = forwardRef<HTMLDivElement, CartTableProps>(({ items, onUpdateQ
 	}
 
 	return (
-		<div ref={ref} className="flex-[1_0_0] overflow-auto neo-border bg-white">
+		<div ref={ref} className="neo-border bg-white">
 			<table className="w-full">
 				<thead>
 					<tr className="border-b-4 border-black">

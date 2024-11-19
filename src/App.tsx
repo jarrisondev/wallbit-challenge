@@ -4,6 +4,7 @@ import CartForm from "./components/CartForm"
 import CartTable from "./components/CartTable"
 import CartStats from "./components/CartStats"
 import { useCart } from "./hooks/useCart"
+import { Toaster } from "sonner"
 
 function App() {
 	const { cartItems, addToCart, updateQuantity, getStats } = useCart()
@@ -63,6 +64,7 @@ function App() {
 					</div>
 				</div>
 			</div>
+			<Toaster richColors />
 		</div>
 	)
 }
